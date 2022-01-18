@@ -1,0 +1,23 @@
+4125  4  4.5  5125000  
+850 Steiner St, San Francisco, CA 94117
+
+1585  3  2  1650000  
+5 Cook St, San Francisco, CA 94118
+
+10734  8  6.5  25800000  
+2698 Pacific Ave, San Francisco, CA 94115
+
+4223  6  6  4595000  
+331 Arguello Blvd, San Francisco, CA 94118
+
+1311  3  2  1238000  
+39 Santa Marina St, San Francisco, CA 94110
+
+5280  7  7  4995000  
+955 S Van Ness Ave, San Francisco, CA 94110
+
+1735  4  1  1500000  
+258 12th Ave, San Francisco, CA 94118
+
+7170  6  5.5  15375000  
+224 Sea Cliff Ave, San Francisco, CA 94121
