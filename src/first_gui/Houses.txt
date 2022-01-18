@@ -1,8 +1,10 @@
 4125  4  4.5  5125000  
 850 Steiner St, San Francisco, CA 94117
+src/first_gui/Screen%20Shot%202022-01-18%20at%2011.48.08%20AM.png
 
 1585  3  2  1650000  
 5 Cook St, San Francisco, CA 94118
+src/first_gui/Screen%20Shot%202022-01-18%20at%2011.55.56%20AM.png
 
 10734  8  6.5  25800000  
 2698 Pacific Ave, San Francisco, CA 94115
